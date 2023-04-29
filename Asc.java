@@ -88,6 +88,10 @@ public class Asc {
 		else {
 			System.out.println("There is no second number");
 		}
+		System.out.println("Code Added");
+		System.out.println("Code Added");
+		System.out.println("Code Added");
+		System.out.println("Code Added");
 	}
 
 }
